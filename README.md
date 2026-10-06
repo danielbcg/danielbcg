@@ -4,11 +4,9 @@
 🎓 Software Engineering Student @ PUC Minas  
 🇧🇷 Brazil
 
-I build backend systems with Java and Spring Boot, focused on APIs, security, and clean architecture.
+I build backend systems with Java and Spring Boot, focused on APIs, security, and clean architecture. I'm deeply focused on Spring Security, authentication/authorization (JWT, RBAC), REST APIs, and PostgreSQL.
 
-I'm deeply focused on Spring Security, authentication/authorization (JWT, RBAC), REST APIs, and PostgreSQL.
-
-I'm currently pursuing a Software Engineering degree at PUC Minas and building real projects to go beyond the classroom — including a full e-commerce backend and a test automation platform for teachers.
+Currently building real projects to go beyond the classroom — including a full e-commerce backend and an academic test automation platform.
 
 ---
 
@@ -68,7 +66,7 @@ I'm currently pursuing a Software Engineering degree at PUC Minas and building r
 ### Basic Knowledge
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -80,14 +78,14 @@ Personal project built solo to push my backend skills beyond the classroom.
 - RBAC (Clients vs Admins) and ownership-based restrictions
 - Inventory control, cart system, and advanced product filtering
 - **Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, React
+- 🔗 [Repository](https://github.com/danielbcg/loja-de-roupas-api-daniel)
 
-### 📝 Academic Project — Test Automation Platform (in progress)
+### 📝 Academic Project — Test Automation Platform *(in progress)*
 Team academic project focused on backend development for exam automation.
-
 - Authentication & authorization with approval workflows
 - Email notification system
 - Relational database modeling
-- Stack: Java, Spring Boot, PostgreSQL
+- **Stack:** Java, Spring Boot, PostgreSQL
 
 ### 💚 CanDonate — Donation Management Platform
 Academic project focused on backend architecture.
