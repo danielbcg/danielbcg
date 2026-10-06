@@ -85,11 +85,8 @@ Personal project built solo to push my backend skills beyond the classroom.
 Team academic project focused on backend development for exam automation.
 
 - Authentication & authorization with approval workflows
-
 - Email notification system
-
 - Relational database modeling
-
 - Stack: Java, Spring Boot, PostgreSQL
 
 ### 💚 CanDonate — Donation Management Platform
